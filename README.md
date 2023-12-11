@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Szubartowski96](https://github.com/Szubartowski96)
-
 - 📫 How to reach me **szubartowski.przemyslaw@o2.pl**
 
 <h3 align="left">Connect with me:</h3>
