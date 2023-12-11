@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Przemek</h1>
 <h3 align="center">Beginner self-taught frotend programming :)</h3>
-
+<br>
 <p> I graduated from Lublin University of Technology. Currently, I am learning frontend development, mastering HTML, CSS, JavaScript, and Bootstrap. I've started learning Angular. In the future, I would like to learn backend and become a full stack developer</p>
+<br>
 
 - 🌱 I’m currently learning **Angular**
 
