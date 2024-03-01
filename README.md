@@ -4,7 +4,7 @@
   <img alt='Coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 </p>
 <br>
-<p> I am a graduate of the Lublin University of Technology. I'm currently learning front-end programming, so far I've mastered HTML, CSS, JavaScript and Bootstrap. I started learning Angular. In the future, I'd like to learn backend and become a fullstack developer.</p>
+<p>I am a graduate of the Lublin University of Technology. I'm currently learning front-end programming, so far I've mastered HTML, CSS, JavaScript and Bootstrap. I recently started learning Angular framework. In the future, I would like to learn backend and become a full-stack developer.</p>
 <br>
 
 - 🌱 I’m currently learning **Angular**
